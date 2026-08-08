@@ -9,10 +9,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=00ff9c&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?label=Followers&style=flat-square&color=00ff9c" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20Engineering-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Brahmapur%2C%20Odisha%20🇮🇳-blue?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=buildwithsubhashree&label=Profile%20Views&color=00ff9c&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/buildwithsubhashree?label=Followers&style=flat-square&color=00ff9c" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20Engineering-brightgreen?style=flat-square" alt="AI/ML Engineering" />
+  <img src="https://img.shields.io/badge/Location-Brahmapur%2C%20Odisha%20🇮🇳-blue?style=flat-square" alt="Location" />
 </p>
 
 ---
