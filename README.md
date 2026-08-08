@@ -119,7 +119,7 @@ For any queries, feedback, or collaboration:
 
 [![Email](https://img.shields.io/badge/Email-tosubhashreepadhy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tosubhashreepadhy@gmail.com) <br>
 [![Phone](https://img.shields.io/badge/Phone-+91_79786_31377-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917978631377) <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhashree_Padhy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[Add LinkedIn URL](https://www.linkedin.com/in/subhashree-padhy-549453330/)]) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhashree_Padhy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[[Add LinkedIn URL](https://www.linkedin.com/in/subhashree-padhy-549453330/)](https://www.linkedin.com/in/subhashree-padhy-549453330/)]) <br>
 [![Location](https://img.shields.io/badge/Location-Brahmapur,_Odisha,_India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](#) <br>
 
 ## 💡 Dev Quote of the Day
