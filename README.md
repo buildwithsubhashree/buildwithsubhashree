@@ -79,15 +79,24 @@ const subhashree = {
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buildwithsubhashree&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Subhashree's GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=buildwithsubhashree&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Subhashree's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithsubhashree&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithsubhashree&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithsubhashree&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithsubhashree&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 ## 💼 Professional Experience
 
