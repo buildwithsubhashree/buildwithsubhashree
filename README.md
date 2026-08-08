@@ -85,11 +85,9 @@ I am a final-year B.Tech Computer Science and Engineering student passionate abo
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[buildwithsubhashree]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[buildwithsubhashree]&theme=radical" alt="GitHub Streak" />
 </div>
-
-> **Note:** Replace `[YOUR_GITHUB_USERNAME]` with your actual GitHub username to activate the stats.
 
 ---
 
