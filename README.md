@@ -94,8 +94,8 @@ I am a final-year B.Tech Computer Science and Engineering student passionate abo
 ## 🤝 Connect With Me
 
 - 📧 Email: tosubhashreepadhy@gmail.com
-- 🔗 [LinkedIn]([Add LinkedIn URL])
-- 💻 [GitHub]([Add GitHub URL])
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/subhashree-padhy-549453330/])
+- 💻 [GitHub]([https://github.com/buildwithsubhashree])
 - 🌐 [Portfolio]([Add Portfolio URL])
 
 ---
