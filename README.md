@@ -65,7 +65,7 @@ const subhashree = {
 🏫  SSVM Gajapati Nagar School <br>
 🎓  Secondary School (SSC) — BSE Odisha <br>
 📅  2021 <br>
-📊  Percentage: 74.84% <br>
+📊  Percentage: 86.16% <br>
 
 ## 🌐 Connect With Me:
 
